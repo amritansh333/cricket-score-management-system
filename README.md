@@ -6,8 +6,6 @@ Project Description:
 
         Database: MySql
 
-        Project Location: Khulna University, Khulna, Bangladesh
-
 Project Description:
 
     This is the project of Live Cricket Score Board with Auto Update.
